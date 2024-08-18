@@ -1,0 +1,17 @@
+.subtotal_container{
+  display: flex;
+  flex-direction: column;
+  background-color: #80808024;
+  padding: 20px;
+  margin-right: 100px;
+  gap:10px;
+}
+
+.subtotal_gift{
+  margin-left: -3px;
+}
+
+.checkout_btn{
+  background-color: orange;
+  padding: 5px;
+}

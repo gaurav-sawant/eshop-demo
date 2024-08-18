@@ -1,0 +1,11 @@
+.banner_img{
+  width:100%;
+  height:500px;
+}
+
+.product_row{
+  background-color: #ffc942;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
